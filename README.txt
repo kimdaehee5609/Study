@@ -1,6 +1,6 @@
 # Study
 
-git clone 
+git clone https://github.com/kimdaehee5609/Study.git
 
 2022.08.14.토
 
